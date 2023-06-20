@@ -27,8 +27,9 @@ const raymondThomas = {
 ```
 
 ## Fun Facts About Me
---🎸 When I'm not coding, you can find me playing guitar or getting lost in the wilderness. I find both activities are great ways to clear my mind and inspire creativity.
---💡 I'm always open to new ideas and collaborations. Feel free to drop me a message!
+
+-🎸 When I'm not coding, you can find me playing guitar or getting lost in the wilderness. I find both activities are great ways to clear my mind and inspire creativity.
+-💡 I'm always open to new ideas and collaborations. Feel free to drop me a message!
 
 <p align="center">
   <h3 align="center">Let's create something amazing together! 🚀</h3>
