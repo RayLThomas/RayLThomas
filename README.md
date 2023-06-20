@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <p align="center">
   <h2 align="center">Hello, World! I'm Ray Thomas 👋</h2>
 </p>
