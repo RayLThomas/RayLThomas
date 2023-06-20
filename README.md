@@ -19,7 +19,7 @@ Welcome to my Github page! I'm a passionate, motivated front-end developer curre
 
 ## My Tech Stack
 ```javascript
-const rayThomas = {
+const raymondThomas = {
   code: ['HTML', 'CSS', 'JavaScript', 'React'],
   tools: ['MongoDB', 'Express', 'Node', 'Bootstrap'],
   learning: ['React', 'Express', 'MongoDB', 'Node']
