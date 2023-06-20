@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/raythomasii/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:raythomasclient@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23333.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-Welcome to my Github page! I'm a passionate, motivated front-end developer currently deepening my knowledge in the MERN stack (MongoDB, Express, React, and Node.js). I find joy in solving complex problems, learning new technologies, and creating visually stunning, responsive web applications.
+Welcome to my Github page! I'm a passionate, motivated front-end developer currently deepening my knowledge in the MERN stack. I find joy in solving complex problems, learning new technologies, and creating visually stunning, responsive web applications.
 
 ## Here's what I'm currently up to:
 
@@ -27,6 +27,7 @@ const rayThomas = {
   tools: ['MongoDB', 'Express', 'Node', 'Bootstrap'],
   learning: ['React', 'Express', 'MongoDB', 'Node']
 }
+```
 
 ## Fun Facts About Me
 --🎸 When I'm not coding, you can find me playing guitar or getting lost in the wilderness. I find both activities are great ways to clear my mind and inspire creativity.
