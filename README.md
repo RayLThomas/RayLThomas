@@ -2,7 +2,7 @@
   <h2 align="center">Hello, World! I'm Ray Thomas 👋</h2>
 </p>
 <p align="center">
-  <h3 align="center">Front-End Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
+  <h3 align="center">Application Support | Full Stack Developer | Lifelong Learner</h3>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/raythomasii/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -12,7 +12,7 @@ Welcome to my Github page! I'm a passionate, motivated front-end developer curre
 
 ## Here's what I'm currently up to:
 
-- 🔭 **Job Hunting:** I’m actively looking for a new opportunity to utilize my front-end web developer skills. Let's connect if my skills align with your needs!
+- 🔭 **Job Hunting:** I’m actively looking for a new opportunity to utilize my expertise in web support. Let's connect if my skills align with your needs!
 - 🌱 **Learning:** I’m refining my expertise in the MERN stack. Working with React has been an exciting journey, and now I'm venturing into the world of back-end with MongoDB, Express, and Node.js.
 - 👯 **Collaborating:** I’m eager to contribute to any projects that could benefit from my front-end expertise and JavaScript proficiency. Let's build something great together!
 - 📫 **Connecting:** You can best reach me through my email at [raythomasclient@gmail.com](mailto:raythomasclient@gmail.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/raythomasii/).
@@ -32,5 +32,5 @@ const raymondThomas = {
 - 💡 I'm always open to new ideas and collaborations. Feel free to drop me a message!
 
 <p align="center">
-  <h3 align="center">Let's create something amazing together! 🚀</h3>
+  <h3 align="center">Always happy to connect! 🚀</h3>
 </p>
